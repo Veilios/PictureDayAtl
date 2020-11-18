@@ -1,5 +1,5 @@
 body {
-  background-color: saddlebrown;
+  background-color: rgb(56, 24, 1);
 }
 
 .app {
@@ -28,7 +28,7 @@ h3 {
 }
 
 .blue {
-  background-color: royalblue;
+  background-color: rgb(70, 161, 235);
   width: 400px;
   height: auto;
   padding: 5px;
@@ -36,7 +36,7 @@ h3 {
 }
 
 .red {
-  background-color: red;
+  background-color: rgb(204, 19, 19);
   width: 400px;
   height: auto;
   padding: 5px;
